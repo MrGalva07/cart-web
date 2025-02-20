@@ -33,7 +33,7 @@ Na sua linha de comando execute:
 $ git clone https://github.com/MrGalva07/cart-web.git
 
 # Acessando o repositório
-$ cd cart
+$ cd cart-web
 
 # Instalando as dependências
 $ npm install
